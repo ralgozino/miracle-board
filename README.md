@@ -11,6 +11,7 @@ Very simple.
 ```json
 {
   "title": "Xhacker’s Status Board",
+  "refresh": 300,
   "tasks": [
     {
       "type": "http",
