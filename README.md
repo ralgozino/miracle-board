@@ -24,7 +24,7 @@ Very simple.
       "type": "shell",
       "id": "vps",
       "title": "VPS",
-      "command": "ping -c 1 xhacker.im"
+      "command": "ping -c 1 xhacker.im",
       "group-id": "group2"
     }
   ]
