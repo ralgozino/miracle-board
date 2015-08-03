@@ -2,7 +2,7 @@
 
 Just another damn simple status board, helps you to check if your websites are up.
 
-<img src="screenshot.png" width="698">
+<img src="screenshot.png" width="749">
 
 ## Configuration
 
