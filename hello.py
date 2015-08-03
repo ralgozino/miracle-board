@@ -34,6 +34,7 @@ def index():
     data = {
         'tasks': config['tasks'],
         'title': config['title'],
+	'refresh': config['refresh'],
     }
     return render_template('index.html', **data)
 

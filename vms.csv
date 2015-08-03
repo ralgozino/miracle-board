@@ -1,0 +1,9 @@
+mkt-mup,MKT Router,127.0.0.1,group1
+srv01,srv01,127.0.0.1,group2
+srv02,srv02,127.0.0.1,group2
+srv03,srv03,127.0.0.1,group1
+srv04,srv04,127.0.0.1,group3
+srv05,srv04,127.0.0.1,group3
+srv06,srv05,127.0.0.1,group2
+srv07,srv06,127.0.0.1,group3
+srv08,srv07,127.0.0.1,group4
