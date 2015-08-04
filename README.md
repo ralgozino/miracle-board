@@ -17,13 +17,15 @@ Very simple.
       "type": "http",
       "id": "xhacker_im",
       "title": "xhacker.im",
-      "address": "http://xhacker.im"
+      "address": "http://xhacker.im",
+      "group-id": "group1"
     },
     {
       "type": "shell",
       "id": "vps",
       "title": "VPS",
-      "command": "ping -c 1 xhacker.im"
+      "command": "ping -c 1 xhacker.im",
+      "group-id": "group2"
     }
   ]
 }
