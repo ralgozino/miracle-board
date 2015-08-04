@@ -81,6 +81,18 @@ p {
     border: 5px solid white;
 }
 
+.header img {
+  float: left;
+  /*width: 100px;
+  height: 100px;
+  background: #555;*/
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
 
 /* =============================================================================
    Media Queries
